@@ -1,0 +1,4 @@
+{
+"Front_Traps":[{"Img":"1","Tittle":"30 Degree Shrug,Seated DB Shrugs,Silverback Shrug,Overhead Press,Barbell Silverback Shrug,Standing Smith Machine Shrugs,Incline Shrug,Kettlebell Silverback Shrug,Upright Row,Shrug V1,Shrug V2,Single Arm Overhead Press,Elevated Pike Press,Horizontal Shrug,Upright Row,Elevated Pike Shoulder Shrug,Traps Stretch V1,Traps Stretch V2,Traps Stretch V3","Difficulty":"Beginner,Beginner,Beginner,Beginner,Intermediate,Beginner,Intermediate,Intermediate,Beginner,Beginner,Beginner,Intermediate,Intermediate,Advanced,Advanced,Beginner,Beginner,Beginner,Beginner"}],
+"Front_Shoulders":[{"Img":"1","Tittle":"On","Tittle":"On"}]
+}
