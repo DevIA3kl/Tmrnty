@@ -1,5 +1,6 @@
 {
-"Front_Traps":[{"1":"Use a handle attachment on both sides of crossover. With cable attachment set all the way to the bottom,Grab both handles and make sure you are centered in the machine. Let your arms hang freely,Pull your shoulder blades up and in towards your ears. Let your shoulder blades depress back to the starting position,"},
+"Front_Traps":[
+{"1":"Use a handle attachment on both sides of crossover. With cable attachment set all the way to the bottom,Grab both handles and make sure you are centered in the machine. Let your arms hang freely,Pull your shoulder blades up and in towards your ears. Let your shoulder blades depress back to the starting position,"},
 {"2":"Use a handle attachment with the cable set to the bottom of the machine. Stand upright making sure to maintain a flat back. Your starting position will have your palms facing forward,Use both your elbows and shoulders to press the weight directly overhead,,"},
 {"3":"Sit on a bench with dumbbells in both hands palms facing your body back straight,Elevate your shoulders and hold the contracted position at the apex of the motion,Slowly lower your shoulders back to starting position,"},
 {"4":"Use a bar attachment. Cable should be set all the way to the bottom,Stand up with the attachment in hand walk a couple of steps back make sure you are standing upright and not leaning backwards,Retract your shoulder blades and then protract to return to the starting position,"},
