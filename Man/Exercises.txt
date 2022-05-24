@@ -1,4 +1,0 @@
-{
-"Front_Traps":[{"1":"Use a handle attachment on both sides of crossover. With cable attachment set all the way to the bottom,Grab both handles and make sure you are centered in the machine. Let your arms hang freely,Pull your shoulder blades up and in towards your ears. Let your shoulder blades depress back to the starting position,"},
-{"2":",,,"}]
-}
