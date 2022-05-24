@@ -1,0 +1,30 @@
+{
+    "Exercises": {
+        "Front_Traps": [
+            {"1":"Use a handle attachment on both sides of crossover. With cable attachment set all the way to the bottom,Grab both handles and make sure you are centered in the machine. Let your arms hang freely,Pull your shoulder blades up and in towards your ears. Let your shoulder blades depress back to the starting position,"},
+            {"2":"Use a handle attachment with the cable set to the bottom of the machine. Stand upright making sure to maintain a flat back. Your starting position will have your palms facing forward,Use both your elbows and shoulders to press the weight directly overhead,,"},
+            {"3":"Sit on a bench with dumbbells in both hands palms facing your body back straight,Elevate your shoulders and hold the contracted position at the apex of the motion,Slowly lower your shoulders back to starting position,"},
+            {"4":"Sit on a bench with dumbbells in both hands palms facing your body back straight,Elevate your shoulders and hold the contracted position at the apex of the motion,Slowly lower your shoulders back to starting position,"},
+            {"5":"Sit on a bench with dumbbells in both hands palms facing your body back straight,Elevate your shoulders and hold the contracted position at the apex of the motion,Slowly lower your shoulders back to starting position,"},
+            {"6":"Sit on a bench with dumbbells in both hands palms facing your body back straight,Elevate your shoulders and hold the contracted position at the apex of the motion,Slowly lower your shoulders back to starting position,"},
+            {"7":"Sit on a bench with dumbbells in both hands palms facing your body back straight,Elevate your shoulders and hold the contracted position at the apex of the motion,Slowly lower your shoulders back to starting position,"},
+            {"8":"Sit on a bench with dumbbells in both hands palms facing your body back straight,Elevate your shoulders and hold the contracted position at the apex of the motion,Slowly lower your shoulders back to starting position,"},
+            {"9":"Sit on a bench with dumbbells in both hands palms facing your body back straight,Elevate your shoulders and hold the contracted position at the apex of the motion,Slowly lower your shoulders back to starting position,"},
+            {"10":"Sit on a bench with dumbbells in both hands palms facing your body back straight,Elevate your shoulders and hold the contracted position at the apex of the motion,Slowly lower your shoulders back to starting position,"},
+            {"11":"Sit on a bench with dumbbells in both hands palms facing your body back straight,Elevate your shoulders and hold the contracted position at the apex of the motion,Slowly lower your shoulders back to starting position,"},
+            {"12":"Sit on a bench with dumbbells in both hands palms facing your body back straight,Elevate your shoulders and hold the contracted position at the apex of the motion,Slowly lower your shoulders back to starting position,"},
+            {"13":"Sit on a bench with dumbbells in both hands palms facing your body back straight,Elevate your shoulders and hold the contracted position at the apex of the motion,Slowly lower your shoulders back to starting position,"},
+            {"14":"Sit on a bench with dumbbells in both hands palms facing your body back straight,Elevate your shoulders and hold the contracted position at the apex of the motion,Slowly lower your shoulders back to starting position,"},
+            {"15":"Sit on a bench with dumbbells in both hands palms facing your body back straight,Elevate your shoulders and hold the contracted position at the apex of the motion,Slowly lower your shoulders back to starting position,"},
+            {"16":"Sit on a bench with dumbbells in both hands palms facing your body back straight,Elevate your shoulders and hold the contracted position at the apex of the motion,Slowly lower your shoulders back to starting position,"},
+            {"17":"Sit on a bench with dumbbells in both hands palms facing your body back straight,Elevate your shoulders and hold the contracted position at the apex of the motion,Slowly lower your shoulders back to starting position,"},
+            {"18":"Sit on a bench with dumbbells in both hands palms facing your body back straight,Elevate your shoulders and hold the contracted position at the apex of the motion,Slowly lower your shoulders back to starting position,"},
+            {"19":"Sit on a bench with dumbbells in both hands palms facing your body back straight,Elevate your shoulders and hold the contracted position at the apex of the motion,Slowly lower your shoulders back to starting position,"}
+        ],
+        "Bics": [
+			{"1":"Use a handle attachment on both sides of crossover. With cable attachment set all the way to the bottom,Grab both handles and make sure you are centered in the machine. Let your arms hang freely,Pull your shoulder blades up and in towards your ears. Let your shoulder blades depress back to the starting position,"},
+            {"2":"Use a handle attachment with the cable set to the bottom of the machine. Stand upright making sure to maintain a flat back. Your starting position will have your palms facing forward,Use both your elbows and shoulders to press the weight directly overhead,,"}
+        ]
+		
+    }
+}
