@@ -1,0 +1,41 @@
+{
+
+"Front_Traps":[{
+
+"1":"Use a handle attachment on both sides of crossover. With cable attachment set all the way to the bottom,Grab both handles and make sure you are centered in the machine. Let your arms hang freely,Pull your shoulder blades up and in towards your ears. Let your shoulder blades depress back to the starting position,",
+"2":"Use a handle attachment with the cable set to the bottom of the machine. Stand upright making sure to maintain a flat back. Your starting position will have your palms facing forward,Use both your elbows and shoulders to press the weight directly overhead,,",
+"3":"Sit on a bench with dumbbells in both hands palms facing your body back straight,Elevate your shoulders and hold the contracted position at the apex of the motion,Slowly lower your shoulders back to starting position,",
+"4":"Use a bar attachment. Cable should be set all the way to the bottom,Stand up with the attachment in hand walk a couple of steps back make sure you are standing upright and not leaning backwards,Retract your shoulder blades and then protract to return to the starting position,",
+"5":"Stand with your feet shoulder width apart holding the Barbell with both hands in front just past shoulder width,Bend forward at the hips with a slight bend in your knees keeping your back straight,Engage your shoulder blades as if you are trying to touch them together,Release the shrug",
+"6":"Place the bar on a lower rung so that when gripped your arms are fully extended and your back is straight,Grip at shoulder width raise the bar with your shoulders and pause at the contracted position,Slowly lower the bar back to starting position,",
+"7":"Leaning across the back section of the bench with feet firmly on the floor and with arms hanging to the sides,Holding the kettlebell in both hands engage your shoulder blades as if you are trying to touch them together Release the shrug,,",
+"8":"Stand with your feet shoulder width apart holding the kettlebell with both hands in front of your thighs,Bend forward at the hips bringing the kettlebell to the floor while you slightly bend your knees keeping your back straight,Holding the kettlebell in both hands engage your shoulder blades as if you are trying to touch them together Release the shrug,",
+"9":"Stand with your feet shoulder width apart holding the kettlebell with both hands in front of your thighs,Bend forward at the hips bringing the kettlebell to the floor while you slightly bend your knees keeping your back straight,Lift the kettlebell upwards towards your chest and lower - repeat,",
+"10":"Place the band under your feet. Stand upright,Elevate your shoulder blades and then depress back to the starting position,,",
+"11":"Standing up straight with feet shoulder width apart,Holding the kettlebell in both hands in front of your pelvis engage your shoulder blades as if you are trying to touch them together,Release the shrug and repeat,",
+"12":"Loop the band under one of your feet. The other end of the bed should be in your hand between your thumb and pointer finger,Press the band straight up towards the ceiling. Until your elbow is fully extended,,",
+"13":"Use a bench or an object to elevate your feet,Lower your head towards the floor by bending your elbows,Push through your hands and return to the starting pike position,Repeat",
+"14":"Anchor the band at shoulder height. Take a few steps away until the band is taut,Retract your shoulder blades straight back in schools. Then protract to the starting position,,",
+"15":"Use a handle attachment with the cable set to the bottom of the machine,Pull your elbows straight up toward the ceiling until the attachment is just below your chin then extend until your elbows are fully extended,,",
+"16":"Use a bench or an object like a chair to elevate your feet,Slowly lower your body (scapula) while keeping your elbows locked (this is key),Slowly raise your body back to the start position,",
+"17":"Stand upright with your feet shoulder width apart,Place your left hand on your head and gently pull your head down towards your left shoulder. Then return to centre point,Repeat using your right hand pulling towards your right shoulder,",
+"18":"Keeping your chest facing forward turn your head 90 degrees to the left. Then return to centre point,Stand upright with your feet shoulder width apart,Repeat turning your head in the other direction,",
+"19":"Stand upright with your feet shoulder width apart,Nod your head forward bringing your chin to your chest,You will feel the stretch across your neck,"
+
+}]
+
+,"Back_Traps":[{
+
+"Calls":"10","Recieves":"0"
+
+}]
+
+,"Back_Bics":[{
+"COUNT(1)":"0"
+}]
+
+,"Front_Bics":[{
+"COUNT(1)":"0"
+}]
+
+}
