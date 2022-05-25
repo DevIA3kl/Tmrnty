@@ -24,8 +24,39 @@
 
 }]
 
-,"Bics":[{
-"COUNT(1)":"0"
+,"Shoulders":[{
+
+
+"1":"Start the barbell across your upper chest below your chin,Raise the barbell upwards and pause at the contracted position above your head,Lower the weights back to starting position,",
+"2":"Sit on a bench with back support. Raise the dumbbells to shoulder height with your palms forward,Raise the dumbbells upwards and pause at the contracted position,Lower the weights back to starting position,",
+"3":"Stand up straight with dumbbells at either side palms facing your hips,Raise your arms on either side with a slight bend in your elbow until they are parallel with the floor. Pause at the top of the motion,Slowly return your arms down to starting position,",
+"4":"Grab two dumbbells while standing upright with the dumbbells at your side,Raise the two dumbbells with your elbows being fully extended until the dumbbells are eye level,Lower the weights in a controlled manner to the starting position and repeat,",
+"5":"With dumbbells in either hand bend your knees with your feet slightly bowed out Arch your back above your knees and start with the weights touching in front of your chest,With bent elbows raise your arms up to shoulder level pausing at the at the end of the motion,Slowly lower your arms back to starting position,",
+"6":"Facing the pulley pull the weight towards you while keeping your arms parallel to the ground,Pull your hands back to both sides of your head and hold the position,Slowly return weight to starting position. Repeat,",
+"7":"With dumbbells in either hand bend your knees with your feet slightly bowed out. Arch your back above your knees and start with the weights touching in front of your chest,With bent elbows raise your arms up to shoulder level pausing at the at the end of the motion,Slowly lower your arms back to starting position,",
+"8":"Use a handle attachment with the cable set to the bottom of the machine. Stand upright making sure to maintain a flat back. Your starting position will have your palms facing forward,Use both your elbows and shoulders to press the weight directly overhead,,",
+"9":"Grab the band with a shoulder width grip. Point your arms straight in front of you,Retract your shoulder blades and shoulder joint until the band taps your chest,,",
+"10":"Use a handle attachment with the cable set all the way to the bottom of the machine,You should vertically abduct at the shoulder raising your arm straight out to the side,Raise until your arm is parallel with the ground and then back to the starting position,",
+"11":"Loop the band under one of your feet. The other end of the bed should be in your hand between your thumb and pointer finger,Press the band straight up towards the ceiling. Until your elbow is fully extended,,",
+"12":"Anchor the band at eye level. Take a few steps away until the band is taut,Use an overhand grip with both hands. Pull the band to the bridge of your nose flaring your elbows out,,",
+"13":"Use a bench or an object to elevate your feet,Lower your head towards the floor by bending your elbows,Push through your hands and return to the starting pike position,Repeat",
+"14":"Use a handle attachment or no attachment at all. The cable should be set to the top,Walk a few steps away with the cable coming from the opposing side of the working arm,From there your shoulders should horizontally abduct and adduct while your elbows stay in a fixed position,",
+"15":"Grab the band at shoulder width. Raise your arms straight out to the side,The band should scrape against your shirt,,",
+"16":"Use a bench to elevate your feet,Put your hands slightly wider than shoulder-width,Slowly lower your body until your chest almost touches the ground,Raise your body until you almost lock your elbows",
+"17":"Grip the edge of the bench with your hands Keep your feet together and legs straight,Lower your body straight down,Slowly press back up to the starting point,TIP: Make this harder by raising your feet off the floor and adding weight",
+"18":"Anchor the band at shoulder height. Take a few steps away until the band is taut,Retract your shoulder blades straight back in schools. Then protract to the starting position,,",
+"19":"Stand on the band with one or 2 feet depending on how heavy you want the band to be,With your elbows extended raise your fists straight up to the ceiling until they are at eye level,,",
+"20":"Use a handle attachment with the cable set to the bottom of the machine,Pull your elbows straight up toward the ceiling until the attachment is just below your chin then extend until your elbows are fully extended,,",
+"21":"Use a bench or an object like a chair to elevate your feet,Slowly lower your body (scapula) while keeping your elbows locked (this is key),Slowly raise your body back to the start position,",
+"22":"Stand with your feet shoulder width apart holding the kettlebell with both hands in front of your thighs,Bend forward at the hips bringing the kettlebell to the floor while you slightly bend your knees keeping your back straight,Bring one arm behind you and rest this arm on your back. With the other arm hold the kettlebell at arm’s length close to the floor,Swing the kettlebell out and up towards the side of your body and then return to centre. Repeat",
+"23":"Stand up straight with feet shoulder width apart holding the kettlebell in front of your pelvis,Keeping arms straight raise the kettlebell slightly higher than head level,Return to the starting position and repeat,",
+"24":"Reach one arm behind your body with your elbow pointing upward behind your head,Assist the stretch with your other hand on your elbow to engage your shoulder,Pause for a few seconds then repeat the stretch with your other arm,",
+"25":"Stand with your feet shoulder width apart holding the kettlebell with both hands in front of your thighs,Bend forward at the hips bringing the kettlebell to the floor while you slightly bend your knees keeping your back straight,Lift the kettlebell upwards towards your upper chest and then lower the kettlebell- repeat.,",
+"26":"Start with your arms at either side. Begin by pushing your shoulders forward and in towards your chest,Repeat as necessary,Continue the circular motion with your shoulders pinching up towards your ears and then extending your chest outwards while you finish the motion,",
+"27":"Place the top of your hand into the small of your back your arm at a 90° angle,Hold your elbow with the other arm and slowly pull the arm forward until you feel your shoulder engaged in the stretch. Pause at the apex of the stretch and return to the starting position,Return to starting position, and repeat with your other arm,",
+"28":"Stand with feet shoulder width apart holding a kettlebell with one hand at your side,Keeping your arm straight swing the kettlebell up and out away from your body to around head height holding on to the kettlebell firmly so it doesn’t change position in your hand,Return to the starting position and repeat,",
+"29":"Stand with you feet shoulder width apart. Place one arm across the front of your chest at shoulder height press the forearm of your other arm above the elbow hooking the stretching arm with your hand,Press the arm until it is straight and rotate your upper torso to engage the stretch even deeper,Repeat with your other arm,",
+"30":"Stand with feet shoulder width apart holding a kettlebell with one hand at your side,Keeping your arm straight swing the kettlebell up and out away from your body to around head height,Return to the starting position and repeat,"
 }]
 
 ,"Chest":[{
