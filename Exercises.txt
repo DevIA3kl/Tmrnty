@@ -114,6 +114,4 @@
 "22":"Stand upright with your feet shoulder width apart,Raise your arms out to your sides bringing them up to shoulder level,Rotate your palms so they are facing the ceiling,Then change direction and rotate the arms as much as you can"
 }]
 
-
-
 }
