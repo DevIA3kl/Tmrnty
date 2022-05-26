@@ -60,7 +60,31 @@
 }]
 
 ,"Chest":[{
-"COUNT(1)":"0"
+
+"1":"Lay flat on the bench with your feet on the ground. With straight arms unrack the bar,Lower the bar to your mid chest
+,Raise the bar until you've locked your elbows,",
+"2":"Hold your body with arms locked above the equipment,Lower your body slowly while leaning forward flare out your elbows,Raise your body above the bars until your arms are locked,",
+"3":"Position the bench between 30 and 45 degrees,Lay flat on the bench with your feet on the ground. With straight arms unrack the bar,Lower the bar to your mid chest,Raise the bar (slowly and controlled) until you've locked your elbows",
+"4":"Lay flat on the bench and place your feet on the ground,Begin the exercise with the dumbbells held together above your chest elbows slightly bent,Simultaneously lower the weights to either side,Pause when the weights are parallel to the bench then raise your arms to the starting position",
+"5":"Raise the bench to a 30° - 45° angle,Lay on the bench and set your feet on the ground,Raise the dumbbells with straight arms then slowly lower them to about shoulder width,Raise them again until your arms are locked and at the starting position again",
+"6":"Lay flat on the bench with your feet on the ground. Raise the dumbbells until you have straight arms,Lower the dumbbells to your mid chest,Raise the dumbbells until you've locked your elbows,",
+"7":"Use a handle attachment. The cables should be set to shoulder height,Bring both of the handles to your chest and make sure you are in the center of the cable crossover,Walk a few steps forward. Then press the weight forward,From there you should flex and extend at both the shoulders and elbows simultaneously",
+"8":"Attach the band to an anchor point that’s about shoulder height. Take a few steps away until the band is taut,Extend your shoulder joint and elbow across your body until your arm is fully extended,,",
+"9":"Attach the band to an anchor point that’s about shoulder height. Take a few steps away until the band is taut,Extend your shoulder joint and elbow across your body until your arm is fully extended,,",
+"10":"Laying on the floor with your knees bent and feet firmly on the floor hold the kettlebell at your chest with both hands,Fully extend your arms raising the kettlebell until your elbows are locked,Lower the kettlebell to the starting position and repeat,",
+"11":"Laying on the floor with your knees bent and feet firmly on the floor leave one arm resting to the side of the body,Using the other arm hold the kettlebell at arms length directly upwards of your shoulder,Lower your arm until your upper arm to elbow is resting on the floor,Return to starting position",
+"12":"Lie on the floor with your knees bent and feet firmly on the floor with your arms to the side of your body,Holding a kettlebell in one hand keeping your arm fully extended with a slight bend in the elbow and your forearms facing upwards lift the kettlebell above your chest,Lower the kettlebell to the starting position and repeat,",
+"13":"Attach the band to a anchor point that’s about shoulder height. Take a few steps away until the band is taut,Extend your shoulder joint and bring your arm across your body until you feel a contraction in your pecs,,",
+"14":"Use a handle attachment set all the way to the bottom of the machine,Bring both of the handles to your chest and make sure you are in the center of the cable crossover,Walk a few steps forward. Then press the weight forward. From there your shoulders should horizontally abduct and adduct while your elbows stay in a fixed position,",
+"15":"Starting in a press up position with feet wide and one hand resting on the kettlebell complete a full press up lowering your chest towards the ground while keeping your body straight and returning to the starting position,Swap hands on the kettlebell placing the hand originally on the kettlebell underneath your shoulder complete another press up,Repeat,",
+"16":"Place your hands firmly on the ground directly under shoulders,Flatten your back so your entire body is straight and slowly lower your body,Draw shoulder blades back and down keeping elbows tucked close to your body,Exhale as you push back to the starting position",
+"17":"",
+"18":"",
+"19":"",
+"20":"",
+"21":"",
+"22":"",
+"23":""
 }]
 
 }
