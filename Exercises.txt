@@ -84,7 +84,8 @@
 "20":"Position your index fingers and thumbs so they’re touching forming a diamond shape,Use a standard push up position,Lower your chest towards your hands keep your elbows close to your body,Stop just before your chest touches the floor, then push back up to the starting position",
 "21":"Using a raised wall place your arm at a 90° angle against it,With a staggered stance lean into the wall extending your chest,Pause for a few seconds and then return to starting position and repeat on opposite side,",
 "22":"Lay on your side with one hand just in front of you,With a slight bend in your arm rotate your arm around your body as slowly as possible,Return to the starting position and then repeat on the other side,",
-"23":"Place your arms behind your back and clasp your hands together,Slowly extend your elbows until they are locked then lift them away from you,Pause in this position for a few seconds and then return them to starting position,"
+"23":"Place your arms behind your back and clasp your hands together,Slowly extend your elbows until they are locked then lift them away from you,Pause in this position for a few seconds and then return them to starting position,",
+"24":"Raise your arms to shoulder height fully extended in front of you,Slowly bring your arms behind your back still at shoulder height,Pause for a few seconds and then return to starting position,"
 }]
 
 }
