@@ -78,13 +78,13 @@
 "14":"Use a handle attachment set all the way to the bottom of the machine,Bring both of the handles to your chest and make sure you are in the center of the cable crossover,Walk a few steps forward. Then press the weight forward. From there your shoulders should horizontally abduct and adduct while your elbows stay in a fixed position,",
 "15":"Starting in a press up position with feet wide and one hand resting on the kettlebell complete a full press up lowering your chest towards the ground while keeping your body straight and returning to the starting position,Swap hands on the kettlebell placing the hand originally on the kettlebell underneath your shoulder complete another press up,Repeat,",
 "16":"Place your hands firmly on the ground directly under shoulders,Flatten your back so your entire body is straight and slowly lower your body,Draw shoulder blades back and down keeping elbows tucked close to your body,Exhale as you push back to the starting position",
-"17":"",
-"18":"",
-"19":"",
-"20":"",
-"21":"",
-"22":"",
-"23":""
+"17":"Stand facing bench or sturdy elevated platform,Place hands on edge of bench or platform slightly wider than shoulder width,Slowly lower your body until your chest almost touches the bench,Push body up until arms are extended",
+"18":"Use a bench to elevate your feet,Put your hands slightly wider than shoulder-width,Slowly lower your body until your chest almost touches the ground,Raise your body until you almost lock your elbows",
+"19":"Grip the edge of the bench with your hands Keep your feet together and legs straight,Lower your body straight down,Slowly press back up to the starting point,TIP: Make this harder by raising your feet off the floor and adding weight",
+"20":"Position your index fingers and thumbs so they’re touching forming a diamond shape,Use a standard push up position,Lower your chest towards your hands keep your elbows close to your body,Stop just before your chest touches the floor, then push back up to the starting position",
+"21":"Using a raised wall place your arm at a 90° angle against it,With a staggered stance lean into the wall extending your chest,Pause for a few seconds and then return to starting position and repeat on opposite side,",
+"22":"Lay on your side with one hand just in front of you,With a slight bend in your arm rotate your arm around your body as slowly as possible,Return to the starting position and then repeat on the other side,",
+"23":"Place your arms behind your back and clasp your hands together,Slowly extend your elbows until they are locked then lift them away from you,Pause in this position for a few seconds and then return them to starting position,"
 }]
 
 }
