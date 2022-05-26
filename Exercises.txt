@@ -88,4 +88,32 @@
 "24":"Raise your arms to shoulder height fully extended in front of you,Slowly bring your arms behind your back still at shoulder height,Pause for a few seconds and then return to starting position,"
 }]
 
+,"Biceps":[{
+
+"1":"While holding the upper arms stationary curl the weights forward while contracting the biceps as you breathe out,Continue the movement until your biceps are fully contracted and the bar is at shoulder level,Hold the contracted position for a second and squeeze the biceps hard,Slowly bring the weight back down to the starting position",
+"2":"Stand up straight with a dumbbell in each hand at arm's length,Raise one dumbbell and twist your forearm until it is vertical and your palm faces the shoulder,Lower to original position and repeat with opposite arm,",
+"3":"Hold the dumbbells with a neutral grip (thumbs facing the ceiling),Slowly lift the dumbbell up to chest height,Return to starting position and repeat,",
+"4":"Use a handle attachment. The cable should be set all the way to the bottom of the machine,Face away from the cable machine,Stagger your stance so you have a better base of support. Face your palm forward. Flex at the elbow and extend,",
+"5":"Stand up straight with a kettlebell in both hands in front of your pelvis,Raise the kettlebell bending your arms at the elbow until the kettlebell is level with your chest,Lower to the starting position and repeat,",
+"6":"Stand up straight with a kettlebell in one hand with your forearm facing out,Raise the kettlebell bending your arm at the elbow and keeping your forearm vertical until your palm faces the shoulder,Lower to the starting position and repeat,",
+"7":"Grab the bar shoulder width apart with a supinated grip (palms facing you),With your body hanging and arms fully extended pull yourself up until your chin is past the bar,Slowly return to starting position. Repeat,",
+"8":"Stand behind a bench with your chest leaning over the edge of the bench,With one arm resting on the bench hold the kettlebell bending the arm at the elbow,Lower your arm using the bench as a guide keeping your forearm straight,Return to the starting position and repeat",
+"9":"Sitting on a chair with your legs apart rest your arm against your thigh and hold the kettlebell with your arm extended towards the floor,Bending your arm at the elbow lift the kettlebell until your palm faces your shoulder,Lower to the starting position and repeat,",
+"10":"Attach band to a low anchor point. Point your palms straight forward,Flex your elbow until you feel your biceps contract. Then fully extend elbows,,",
+"11":"Use a handle attachment. The cable should be set all the way to the bottom of the machine,Face away from the cable machine. Stagger your stance so you have a better base of support,Use a neutral grip thumb facing up pinky-facing down). Flex at the elbow and extend,",
+"12":"Use a handle attachment. The cable should be set all the way to the bottom of the machine,Face away from the cable machine. Stagger your stance so you have a better base of support,Start with a neutral grip. Flex at the elbow. While flexing twist your palm. When you hit the top of the movement your palm should be facing upward,",
+"13":"Use a handle attachment. The cable should be set all the way to the bottom of the machine,Face away from the cable machine. Stagger your stance so you have a better base of support,Face your palm downwards. Flex at the elbow and extend,",
+"14":"Place the band at about eye level. Fall into a kneeling position,The knee that is on the ground should be the same side as the working arm. Stick your chest out,And then pull your elbow straight back. Flex your lats and then extend into the starting position,",
+"15":"Attach band to a low anchor point. Use a neutral grip,Flex your elbow until you feel your biceps contract. Then fully extend elbows,,",
+"16":"Attach band to a low anchor point. . Point your palms toward your thighs,Flex your elbow until you feel your biceps contract. Then fully extend elbows,,",
+"17":"Lay underneath a fixed horizontal bar and grab the bar with a wide overhand grip,Pull your body straight up to the bar,Return to the starting position your arms fully extended. Repeat,",
+"18":"Stand one foot in front of the other with the wall to your right an arms width away,Place your hand on the wall fingers pointing away from you,Gently lean forward keeping your hand stationary,Repeat with the other arm",
+"19":"Stand facing the wall an arm's width away,Place your hand on the wall with your fingers pointing down,Lean slightly into the wall to feel the stretch in your bicep,",
+"20":"Bend your arm at the elbow raising your hand to your shoulder,Using your other hand stretch the arm down to its full extent,,",
+"21":"Stand an arms width away from the wall,Raise your arms out behind you and place them on the wall with your fingers pointing up,Bend your knees whilst keeping your hands in the same position,",
+"22":"Stand upright with your feet shoulder width apart,Raise your arms out to your sides bringing them up to shoulder level,Rotate your palms so they are facing the ceiling,Then change direction and rotate the arms as much as you can"
+}]
+
+
+
 }
