@@ -114,4 +114,29 @@
 "22":"Stand upright with your feet shoulder width apart,Raise your arms out to your sides bringing them up to shoulder level,Rotate your palms so they are facing the ceiling,Then change direction and rotate the arms as much as you can"
 }]
 
+
+
+,"Forearms":[{
+
+"1":"Grip the dumbbell with your palm facing upwards with your forearm rested against the bench,Slowly curl your wrist upwards in a semicircular motion,Return to starting position and repeat,",
+"2":"Grab a straight bar with a supinated (underhand) grip,Kneel down next to a flat bench and place your forearms on the bench with your wrists just off the bench,Let the barbell pull down on your wrists until they are extended,Curl the barbell until your wrists are fully flexed .Lower in a controlled manner and repeat",
+"3":"Stand up straight with a kettlebell in both hands in front of your pelvis with your forearms facing outwards,Flex your wrist towards your body until the kettlebell is level with your stomach,Lower to the starting position and repeat,",
+"4":"Stand straight and hold the barbell behind you using a pronated grip with your hands and feet shoulder-width apart,Slowly curl your wrists in a semi-circular motion upwards,Hold the barbell at the apex of the motion and then slowly lower the barbell back down to starting position,",
+"5":"Grab the bar shoulder width apart with a supinated grip (palms facing you),With your body hanging and arms fully extended pull yourself up until your chin is past the bar,Slowly return to starting position. Repeat,",
+"6":"Grab an EZ bar (or barbell) with a shoulder width pronated (overhand) grip,Curl the weight until your forearms and your biceps touch one another,Lower the weight in a controlled manner and repeat,",
+"7":"Use a handle attachment. The cable should be set all the way to the bottom of the machine,Face away from the cable machine. Stagger your stance so you have a better base of support,Use a neutral grip thumb facing up pinky-facing down). Flex at the elbow and extend,",
+"8":"Use a handle attachment. The cable should be set all the way to the bottom of the machine,Face away from the cable machine. Stagger your stance so you have a better base of support,Start with your elbow at a 90° angle with your palm facing down. Flex and extend at the wrist,",
+"9":"Stand up straight with a kettlebell in both hands in front of your pelvis with your forearms facing inwards,Flex your wrist upwards until wrists are fully extended,Lower to the starting position and repeat,",
+"10":"Use a handle attachment. The cable should be set all the way to the bottom of the machine,Face away from the cable machine. Stagger your stance so you have a better base of support,Start with your elbow at a 90° angle with your palm facing up. Flex and extend at the wrist,",
+"11":"Standing straight with a kettlebell in one hand lift the knee of one leg off the floor to knee height,Bring the leg back to standing and repeat with the other leg keeping the kettlebell on the same side,Repeat,",
+"12":"Use a handle attachment. The cable should be set all the way to the bottom of the machine,Face away from the cable machine. Stagger your stance so you have a better base of support,Face your palm downwards. Flex at the elbow and extend,",
+"13":"Attach band to a low anchor point. Use a neutral grip,Flex your elbow until you feel your biceps contract. Then fully extend elbows,,",
+"14":"Attach band to a low anchor point. . Point your palms toward your thighs,Flex your elbow until you feel your biceps contract. Then fully extend elbows,,",
+"15":"Lay underneath a fixed horizontal bar and grab the bar with a wide overhand grip,Pull your body straight up to the bar,Return to the starting position your arms fully extended. Repeat,",
+"16":"Place your palm flush against the wall,Take one step forward and straighten your arm slowly to extend your bicep,Hold at the peak of the stretch,Return to starting position",
+"17":"Place your hand against a wall palms facing upward with finger tips touching,Hold at the peak of the stretch,Return to starting position,Slowly lean into your palm",
+"18":"Place your hands together,Rotate your arms and hands 180°,Hold at the peak of the stretch,Return to starting position",
+"19":"Raise your arm to shoulder height at 90° to your body,Press lightly on your hand and push towards you,Rotate the arm across your body,Switch sides and repeat"
+}]
+
 }
