@@ -10,4 +10,7 @@
 
 ,"Forearms":[{"Source":"-Wrist Curl[1_96_1/1_96_2],-Barbell Wrist Curl[1_97_1/1_97_2],-Wrist Curl[1_98_1/1_98_2],+Behind The Back Barbell Wrist Curl[1_99_1/1_99_2],+ChinUps[1_100_1/1_100_2],-Reverse Curl[1_101_1/1_101_2],-Hammer Curl[1_102_1/1_102_2],*Wrist Extension[1_103_1/1_103_2],-Wrist Extension[1_104_1/1_104_2],+Wrist Curl[1_105_1/1_105_2],-Farmer’s Carry[1_106_1/1_106_2],-Reverse Curl[1_107_1/1_107_2],+Hammer Curl[1_108_1/1_108_2],+Reverse Curl[1_109_1/1_109_2],-Inverted Row[1_110_1/1_110_2],-Forearms Stretch V1[1_111_1/1_111_2],-Forearms Stretch V2[1_112_1/1_112_2],-Forearms Stretch V3[1_113_1/1_113_2],-Forearms Stretch V4[1_114_1/1_114_2]"}]
 
+,"Abdominals":[{"Source":"-Crunches[1_115_1/1_115_2],-Laying Leg Raises[1_116_1/1_116_2],-Hanging Knee Raises[1_117_1/1_117_2],-Forearm Plank[1_118_1/1_118_2],+RollOuts[1_119_1/1_119_2],-Windmill Curl[1_120_1/1_120_2],-Situp[1_121_1/1_121_2],-Woodchopper[1_122_1/1_122_2],-Russian Twist[1_123_1/1_123_2],+Barbell RollOuts[1_124_1/1_124_2],+Barbell Landmine Side Bend[1_125_1/1_125_2],-Kneeling Crunch[1_126_1/1_126_2],-Pallof Press[1_127_1/1_127_2],+Crunch[1_128_1/1_128_2],-Pallof Press[1_129_1/1_129_2],*Standing Crunch[1_130_1/1_130_2],+Wood Chopper[1_131_1/1_131_2],*Wood Chopper[1_132_1/1_132_2],-Abdominals Stretch V1[1_133_1/1_133_2],-Abdominals Stretch V2[1_134_1/1_134_2],-Abdominals Stretch V3[1_135_1/1_135_2],-Abdominals Stretch V4[1_136_1/1_136_2]"}]
+
+
 }
