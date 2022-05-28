@@ -196,4 +196,23 @@
 }]
 
 
+,"Calves":[{
+
+"1":"Use a straight bar or ez bar attachment with the cable set all the way to the bottom,Walk a few steps back,Pull your heels straight up until you feel a contraction in your calves and then back to original position,",
+"2":"Attach band to a low anchor point,Take a few steps away until the band is taut,Lean back slightly. Raise your heels straight up and down,",
+"3":"Get comfortable on the machine then place your lower thighs beneath the padded lever. Place your toes and the balls of your feet onto the foot supports,Prevent the weight from slipping forward by gripping the handles and release the safety bar. Lower the weight until your calves are extended,Push your heels up to lift the padded lever and hold the contracted position then slowly lower back down to the starting position. Repeat,",
+"4":"Place the bar on your back,Start with feet flat on the ground,Extend your heels upwards while keeping your knees stationary and pause at the contracted position,Slowly return to the starting position. Repeat",
+"5":"Adjust the machine in accordance with your height and place your shoulders underneath the padded lever,The balls of your feet should be supporting your weight on the calve block your heels extending off of it,Extend your heels upwards while keeping your knees stationary and pause at the contracted position,Slowly return to the starting position. Repeat",
+"6":"Standing straight with a kettlebell in each hand raise your heels upwards while keeping your knees stationary,Pause when your heels are fully extended and then slowly return to the starting position and repeat,,",
+"7":"Standing straight with a kettlebell in one hand lift the same foot as the side without the kettlebell off the floor,Raise your heel upwards while keeping your knees stationary,Pause when your heels are fully extended and then slowly return to the starting position and repeat,",
+"8":"Sitting comfortably on a chair with your core stomach muscles engaged place your feet on the floor,Place the kettlebell on your legs just above the knees and raise your heels upwards off the floor,Pause when your heels are fully extended and then slowly return to the starting position and repeat,",
+"9":"Walk forward and push your toe into the ground,Lift you heel off the ground each step and tense your calf muscle,Repeat on each leg and walk forward slowly,",
+"10":"Point your toes into the floor,Slowly walk forwards and backward,Keep your heels in the air as long as possible while walking,It may be beneficial to do this last at the end of your workout",
+"11":"Place the ball of your foot against the wall with your heel on the ground. Place your hands on the wall in front of your shoulders,Keeping your knee straight slowly lean towards the wall pause for a few seconds when you feel the stretch extending through your calf muscle,Return to the starting position and repeat the stretch with your other leg,",
+"12":"With both feet flat on the ground place one leg in front of your shoulder your other leg should mirror this position behind your other shoulder. In the starting position both of your knees should be straight,Place the palms of your hands against the wall at shoulder height in front of you lean towards the wall and bend your front leg at the knee while keeping your back leg straight,Pause at the apex of the stretch and return to the starting position. Switch the position of your legs and repeat,",
+"13":"Balance the balls of your feet on the platform leaning forward to use the wall to assist with balance. Engage your calves so that your feet are flat before beginning the stretch,Lower the heels of your feet towards the ground and pause then push through the balls of your feet like you are standing tip toe pausing at the apex of the stretch,Repeat as necessary,",
+"14":"Balance on the balls of your feet on the platform or plates leaning forward to use the wall to assist with balance,Lower the heels of your feet towards the ground and pause then push through the balls of your feet like you are standing tip toe pausing at the apex of the motion,Repeat as necessary,"
+}]
+
+
 }
