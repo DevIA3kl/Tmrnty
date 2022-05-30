@@ -16,22 +16,7 @@
 
 ,"Calves":[{"Source":"-Calve Raise V1[1_163_1/1_163_2],-Calve Raise V2[1_164_1/1_164_2],-Seated Calf Raises[1_165_1/1_165_2],+Barbell Calf Raises[1_166_1/1_166_2],-Standing Calf Raises[1_167_1/1_167_2],-Calf Raise[1_168_1/1_168_2],-Single Leg Calf Raise[1_169_1/1_169_2],-Seated Calf Raise[1_170_1/1_170_2],-Walking Calf Raises[1_171_1/1_171_2],-Tip Toe Walking[1_172_1/1_172_2],-Calves Stretch V1[1_173_1/1_173_2],-Calves Stretch V2[1_174_1/1_174_2],-Calves Stretch V3[1_175_1/1_175_2],-Calf Raises[1_176_1/1_176_2]"}]
 
-,"MidBack":[{"Source":"
-*Deadlift[1_177_1/1_177_2],
-+Pull Ups[1_178_1/1_178_2],
--30 Degree Shrug[1_179_1/1_179_2],
-+Dumbbell Row[1_180_1/1_180_2],
--Seated Cable Row[1_181_1/1_181_2],
--Silverback Shrug[1_182_1/1_182_2],
-+Incline Shrug[1_183_1/1_183_2],
-+Kettlebell Silverback Shrug[1_184_1/1_184_2],
--Pull Apart[1_185_1/1_185_2],
--Row[1_186_1/1_186_2],
--Deadlift[1_187_1/1_187_2],
-+Elevated Pike Press[1_188_1/1_188_2],
--Inverted Row[1_189_1/1_189_2],
--Mid Back Stretch V1[1_190_1/1_190_2],
--Mid Back Stretch V2[1_191_1/1_191_2]"}]
+,"MidBack":[{"Source":"*Deadlift[1_177_1/1_177_2],+Pull Ups[1_178_1/1_178_2],-30 Degree Shrug[1_179_1/1_179_2],+Dumbbell Row[1_180_1/1_180_2],-Seated Cable Row[1_181_1/1_181_2],-Silverback Shrug[1_182_1/1_182_2],+Incline Shrug[1_183_1/1_183_2],+Kettlebell Silverback Shrug[1_184_1/1_184_2],-Pull Apart[1_185_1/1_185_2],-Row[1_186_1/1_186_2],-Deadlift[1_187_1/1_187_2],+Elevated Pike Press[1_188_1/1_188_2],-Inverted Row[1_189_1/1_189_2],-Mid Back Stretch V1[1_190_1/1_190_2],-Mid Back Stretch V2[1_191_1/1_191_2]"}]
 
 
 }
