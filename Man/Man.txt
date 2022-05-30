@@ -31,7 +31,7 @@
 +Elevated Pike Press[1_188_1/1_188_2],
 -Inverted Row[1_189_1/1_189_2],
 -Mid Back Stretch V1[1_190_1/1_190_2],
--Mid Back Stretch V1[1_191_1/1_191_2]"}]
+-Mid Back Stretch V2[1_191_1/1_191_2]"}]
 
 
 }
