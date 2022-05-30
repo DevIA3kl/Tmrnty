@@ -18,22 +18,7 @@
 
 ,"MidBack":[{"Source":"*Deadlift[1_177_1/1_177_2],+Pull Ups[1_178_1/1_178_2],-30 Degree Shrug[1_179_1/1_179_2],+Dumbbell Row[1_180_1/1_180_2],-Seated Cable Row[1_181_1/1_181_2],-Silverback Shrug[1_182_1/1_182_2],+Incline Shrug[1_183_1/1_183_2],+Kettlebell Silverback Shrug[1_184_1/1_184_2],-Pull Apart[1_185_1/1_185_2],-Row[1_186_1/1_186_2],-Deadlift[1_187_1/1_187_2],+Elevated Pike Press[1_188_1/1_188_2],-Inverted Row[1_189_1/1_189_2],-Mid Back Stretch V1[1_190_1/1_190_2],-Mid Back Stretch V2[1_191_1/1_191_2]"}]
 
-,"Triceps":[{"Source":"
--Cable Push Downs[1_177_1/1_177_2],
-+Dips[1_178_1/1_178_2],
-+Laying Triceps Extensions[1_179_1/1_179_2],
--Pushdown[1_180_1/1_180_2],
-
--Seated Cable Row[1_181_1/1_181_2],
--Silverback Shrug[1_182_1/1_182_2],
-+Incline Shrug[1_183_1/1_183_2],
-+Kettlebell Silverback Shrug[1_184_1/1_184_2],
--Pull Apart[1_185_1/1_185_2],-Row[1_186_1/1_186_2],
--Deadlift[1_187_1/1_187_2],
-+Elevated Pike Press[1_188_1/1_188_2],
--Inverted Row[1_189_1/1_189_2],
--Mid Back Stretch V1[1_190_1/1_190_2],
--Mid Back Stretch V2[1_191_1/1_191_2]
+,"Triceps":[{"Source":"-Cable Push Downs[1_192_1/1_192_2],+Dips[1_193_1/1_193_2],+Laying Triceps Extensions[1_194_1/1_194_2],-Pushdown[1_195_1/1_195_2],+Close Grip Bench Press[1_196_1/1_196_2],-Pushdown[1_197_1/1_197_2],-Pushup[1_198_1/1_198_2],+Skullcrusher[1_199_1/1_199_2],+Skullcrusher[1_200_1/1_200_2],*Cross Pushdown[1_201_1/1_201_2],-Push Up[1_202_1/1_202_2],+Elevated Pike Press[1_203_1/1_203_2],*Overhead Tricep Extension V1[1_204_1/1_204_2],+Overhead Tricep Extension V2[1_205_1/1_205_2],-Bench Dips[1_206_1/1_206_2],-Diamond PushUps[1_207_1/1_207_2],-Bench Dips[1_208_1/1_208_2],*Dips (narrow elbows)[1_209_1/1_209_2],+Seated Triceps Extensions[1_2010_1/1_210_2],+Tate Press[1_211_1/1_211_2],*Decline Skull Crusher[1_212_1/1_212_2],-Triceps Stretch v1[1_213_1/1_213_2],-Standing Tricep Extension[1_214_1/1_214_2],-Triceps Stretch v2[1_215_1/1_215_2],-Triceps Stretch[1_216_1/1_216_2],*Skull Crusher[1_217_1/1_217_2]
 "}]
 
 
