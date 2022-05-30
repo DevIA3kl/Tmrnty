@@ -215,4 +215,24 @@
 }]
 
 
+,"MidBack":[{
+
+"1":"Stand with your mid-foot under the bar and grip the bar with your hands about a shoulder width apart,Bend your knees then lift the bar by straightening your back. It is important to keep your back straight,Stand to your full height and hold,Lower the bar to the floor by bending your knees and keeping your back straight",
+"2":"Grasp the bar with an overhand grip arms and shoulders fully extended,Pull your body up until your chin is above the bar,Lower your body back to starting position,",
+"3":"Use a handle attachment on both sides of crossover. With cable attachment set all the way to the bottom,Grab both handles and make sure you are centered in the machine. Let your arms hang freely,Pull your shoulder blades up and in towards your ears. Let your shoulder blades depress back to the starting position,",
+"4":"Place your right leg on the top end of the bench so that your knee and shin rest flat on the bench, your foot hanging off the end,Bend your torso towards the floor and support yourself with your right arm by placing your palm flat against the bench,Grip the weight with your right Hand and pull it straight up to the side of your chest. Repeat the motion,Switch the supporting leg and arm to work the other side",
+"5":"Sit with your back straight on the machine and grip the handles,Pull the handles back using your arms. Your legs and torso should be at a 90° angle. Push out your chest,Pull the handles towards your body until your hands are beside your abdomen,",
+"6":"Use a bar attachment. Cable should be set all the way to the bottom,Stand up with the attachment in hand walk a couple of steps back make sure you are standing upright and not leaning backwards,Retract your shoulder blades and then protract to return to the starting position,",
+"7":"Leaning across the back section of the bench with feet firmly on the floor and with arms hanging to the sides,Holding the kettlebell in both hands engage your shoulder blades as if you are trying to touch them together. Release the shrug,,",
+"8":"Stand with your feet shoulder width apart holding the kettlebell with both hands in front of your thighs,Bend forward at the hips bringing the kettlebell to the floor while you slightly bend your knees keeping your back straight,Holding the kettlebell in both hands engage your shoulder blades as if you are trying to touch them together. Release the shrug,",
+"9":"Grab the band with a shoulder width grip. Point your arms straight in front of you,Retract your shoulder blades and shoulder joint until the band taps your chest,,",
+"10":"Stand with your feet shoulder width apart holding the kettlebell with both hands in front of your thighs,Bend forward at the hips bringing the kettlebell to the floor while you slightly bend your knees keeping your back straight,Lift the kettlebell upwards towards your chest and lower repeat,",
+"11":"Stand with your feet shoulder width apart holding the kettlebell with both hands in front of your thighs,Bend forward at the hips bringing the kettlebell to the floor while you slightly bend your knees keeping your back straight,Return to standing position and repeat,",
+"12":"Use a bench or an object to elevate your feet,Lower your head towards the floor by bending your elbows,Push through your hands and return to the starting pike position,Repeat",
+"13":"Lay underneath a fixed horizontal bar and grab the bar with a wide overhand grip,Pull your body straight up to the bar,Return to the starting position your arms fully extended. Repeat,",
+"14":"Repeat with your other arm,Stand up with your feet shoulder width apart. Place one arm across the front of your chest at shoulder height press the forearm of your other arm above the elbow hooking the stretching arm with your hand,Press the arm until it is straight and rotate your upper torso to engage the stretch even deeper,",
+"15":"Sit on the ground and lay one leg flat and the other over the top,Hold your leg with the same side arm and slowly rotate your hips and back,Hold at the peak of the stretch then slowly return to starting position,Switch sides and repeat"
+}]
+
+
 }
