@@ -290,7 +290,7 @@
 "19":"Find a wall to lean against lay your tricep against the wall with your hand behind your back,Slowly lean into the wall,Return to starting position then switch sides,"
 }]
 
-,"Lats":[{
+,"LowerBack":[{
 
 "1":"Stand with your mid-foot under the bar and grip the bar with your hands about a shoulder width apart,Bend your knees then lift the bar by straightening your back. It is important to keep your back straight,Stand to your full height and hold,Lower the bar to the floor by bending your knees and keeping your back straight",
 "2":"Start with a straight bar or easy bar attachment,Get your elbows directly underneath the bar squat straight up and then walk back a few steps,Break at your knees and hips to initiate the squat. Make sure you maintain a flat back,Squat all the way back to a standing position",
