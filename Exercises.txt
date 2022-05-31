@@ -290,4 +290,28 @@
 "19":"Find a wall to lean against lay your tricep against the wall with your hand behind your back,Slowly lean into the wall,Return to starting position then switch sides,"
 }]
 
+,"Lats":[{
+
+"1":"Stand with your mid-foot under the bar and grip the bar with your hands about a shoulder width apart,Bend your knees then lift the bar by straightening your back. It is important to keep your back straight,Stand to your full height and hold,Lower the bar to the floor by bending your knees and keeping your back straight",
+"2":"Start with a straight bar or easy bar attachment,Get your elbows directly underneath the bar squat straight up and then walk back a few steps,Break at your knees and hips to initiate the squat. Make sure you maintain a flat back,Squat all the way back to a standing position",
+"3":"Start with a straight bar or ez bar attachment set to the bottom of the machine. Squat the weight up into a standing position and walk a few steps back,Push your butt back to initiate the movement and then push your butt forward until you're back in a standing position,To protect yourself from injury always maintain a flat back on any exercise,",
+"4":"Position your thighs on the padding and hook your feet on the platform supports,Keeping your back straight slowly bend at your waist until your legs and back are at a 45° angle,Slowly raise your body to the starting position,",
+"5":",,,",
+"6":"Stand with your feet shoulder width apart shifting one foot behind you. Hold the kettlebell in both hands in front of your thighs,Bend forward at the hips bringing the kettlebell to the floor while you slightly bend your knees and keep your back straight,Return to the upright position and repeat,",
+"7":"Stand with your feet slightly wider than shoulder width apart holding the kettlebell between your legs, with your knees slightly bent,Keeping your back straight swing the kettlebell upwards until the kettlebell is level with your chest and carefully lower,Repeat,",
+"8":"Stand with your feet shoulder width apart holding the kettlebell with both hands in front of your chest,Bend forward at the hips keeping your back and knees straight and the kettlebell close to your chest,Return to standing position and thrust your pelvis forward,",
+"9":"Anchor the band at hip level. Take a few steps away until the band is taut,Push your hips back while keeping your back flat until you feel a stretch in your hamstrings,,",
+"10":"Use an ankle attachment. The cable should be set to the bottom of the crossover machine,Push your ankle straight back extending at the hip. Hold for a one count when you feel a contraction in your glutes,Then flex at the hips until you are back into your original position,",
+"11":"Stand with your feet shoulder width apart holding the kettlebell with both hands in front of your thighs,Bend forward at the hips bringing the kettlebell to the floor while you slightly bend your knees keeping your back straight,Return to standing position and repeat,",
+"12":"Start with a straight bar or easy bar attachment. Squat the weight up into a standing position and walk a few steps back,Push your butt back to initiate the movement while lifting one of your legs. Then push your butt forward until you're back in a standing position,Compete your given amount of reps then switch to opposite leg,To protect yourself from injury always maintain a flat back",
+"13":"Anchor the band to the lowest point possible. Straddle the band and then grab with both hands,Take a few steps away until the band is taut,Push your butt back until you feel a stretch in your hamstrings. Then extend the hips back into the starting position,",
+"14":"This exercise works best with a rope attachment but can be done with anything. The attachment should be set to the bottom of the machine,Face away from the cable machine straddle the cable itself and grab the attachment. Walk a few steps away,Break at the hips while maintaining a flat back and mostly extended knees,Push hips forward until you are back in a standing position",
+"15":"Stand with your feet a little past shoulder width apart with a slight bend at your knee. Place your hands behind the back of your head,Keeping your back straight rotate your hips to bring your shoulders down towards the floor. Stop when your chest is parallel with the floor,,",
+"16":"Lie face down on the floor with your arms fully extended in front of you,Simultaneously raise your arms legs and chest off of the floor and hold the position,Slowly lower your arms legs and chest back to the starting position. Repeat,",
+"17":"Sit on the floor with the tops of your feet pointed and flat on the ground. Move your arms out in front of you in the diving position placing your palms flat against the ground,With your arms fully extended rest your buttocks on the heels of your feet you can crawl your hands forward to extend the stretch if need be,Hold the extended position for a few seconds and return to starting position,",
+"18":"Lay flat on the floor with your arms at either side,With one leg hook one foot under the joint of your other leg,Rotate your hips so that your knees are pointing sideways keeping your hooked leg flat against the floor.,Pause at the apex of the stretch and repeat with your other leg.",
+"19":"Lay on your back with your arms at either side,Raise your knees so that they are pointing straight towards the ceiling. Keeping your legs pressed together rotate your hips to either side,Repeat this motion as necessary,",
+"20":"Lay flat against the ground with your knees at an angle and your feet flat against the floor,Grab your legs just below the knees and pull your legs towards your chest,Pause at the apex of the stretch then return to the starting position,"
+}]
+
 }
