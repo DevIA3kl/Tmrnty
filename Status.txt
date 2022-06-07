@@ -1,1 +1,1 @@
-{"Info":[{"Version":"4","Status":"On","Ads":"Off"}]}
+{"Info":[{"Version":"4","Status":"On","Ads":"On"}]}
